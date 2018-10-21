@@ -3,5 +3,11 @@ Anonymous FTP allows you to check a specific FTP server for anonymous login, if 
 
 # USAGE
 
-git clone 
+git clone https://github.com/c0d3ninjapy/AnonFTP.git
+
+cd AnonFTP
+
+python AnonFTP.py
+
+HAPPY CODING!!
 
