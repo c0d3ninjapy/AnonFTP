@@ -2,12 +2,12 @@
 Anonymous FTP allows you to check a specific FTP server for anonymous login, if you're successful it will connect to the server and print everything in that current directory.
 
 # USAGE
+```bash
+$ git clone https://github.com/c0d3ninjapy/AnonFTP.git
 
-git clone https://github.com/c0d3ninjapy/AnonFTP.git
+$ cd AnonFTP
 
-cd AnonFTP
-
-python AnonFTP.py
-
+$ python AnonFTP.py
+```
 HAPPY CODING!!
 
